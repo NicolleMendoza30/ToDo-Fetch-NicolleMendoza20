@@ -1,11 +1,39 @@
-/* 
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+.input-group{
+    padding: 10px;
+    position: relative;
+    left: 450px;
+    bottom: -40px;
+    width: 600px;
+    height: 60px;
+}
 
-*/
+h1{
+    position: relative;
+    right: -650px;
+    bottom: -30px;
+    font-size: 100px;
+    color: black
+}
+
+.tareas{
+    position: relative;
+    margin: 0px;
+    right: -490px;
+    bottom: -50px;
+}
+
+.boton{
+    position: relative;
+    left: 500px;
+    top: -20px;
+} 
+.list-group-item{
+    width: 600px;
+    position: relative;
+    left: -70px;
+}
+.list-group{
+    background-color: gainsboro;
+}
+
